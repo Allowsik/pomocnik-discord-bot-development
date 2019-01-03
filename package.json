@@ -1,0 +1,21 @@
+{
+  "name": "pomocnik-v.2.1",
+  "version": "1.0.0",
+  "description": "Bot wykonany przez Allowsik#8019",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Allowsik#8019",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "ffmpeg-binaries": "^4.0.0",
+    "fs": "0.0.1-security",
+    "ms": "^2.1.1",
+    "node-gyp": "^3.8.0",
+    "rebuild": "^0.1.2",
+    "superagent": "^4.0.0",
+    "ytdl-core": "^0.28.3"
+  }
+}
